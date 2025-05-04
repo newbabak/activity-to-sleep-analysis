@@ -1,0 +1,890 @@
+Date,Avg,Rest,Low,Medium Stress,High Stress
+5/2/2025,32,4h 26min,5h 38min,1h 12min,14min
+5/1/2025,25,7h 10min,3h 0min,40min,12min
+4/30/2025,24,7h 52min,3h 17min,9min,2min
+4/29/2025,38,2h 8min,7h 2min,2h 13min,1min
+4/28/2025,35,4h 44min,3h 15min,1h 58min,22min
+4/27/2025,27,9h 3min,5h 29min,1h 1min,7min
+4/26/2025,35,7h 23min,5h 51min,1h 56min,1h 17min
+4/25/2025,27,5h 52min,4h 30min,37min,7min
+4/24/2025,35,2h 20min,7h 19min,1h 19min,7min
+4/23/2025,29,6h 1min,4h 14min,1h 5min,4min
+4/22/2025,31,5h 15min,5h 30min,1h 5min,6min
+4/21/2025,29,6h 34min,2h 48min,1h 19min,18min
+4/20/2025,33,6h 23min,10h 3min,2h 30min,--
+4/19/2025,32,8h 45min,3h 55min,2h 33min,41min
+4/18/2025,32,7h 2min,8h 26min,2h 12min,12min
+4/17/2025,32,4h 39min,5h 9min,1h 6min,18min
+4/16/2025,32,4h 16min,4h 47min,1h 27min,4min
+4/15/2025,27,6h 8min,4h 41min,21min,6min
+4/14/2025,32,4h 19min,5h 33min,1h 27min,5min
+4/13/2025,30,8h 18min,4h 23min,2h 51min,15min
+4/12/2025,31,8h 48min,7h 32min,2h 44min,8min
+4/11/2025,33,5h 44min,3h 7min,2h 17min,10min
+4/10/2025,21,7h 40min,2h 12min,22min,6min
+4/9/2025,28,5h 10min,4h 33min,45min,6min
+4/8/2025,42,1h 59min,5h 43min,3h 34min,14min
+4/7/2025,32,5h 16min,4h 36min,1h 24min,11min
+4/6/2025,26,9h 37min,6h 55min,32min,8min
+4/5/2025,29,10h 13min,7h 14min,2h 18min,17min
+4/4/2025,30,6h 25min,3h 44min,1h 40min,2min
+4/3/2025,29,7h 2min,3h 50min,1h 24min,7min
+4/2/2025,22,7h 42min,3h 36min,10min,3min
+4/1/2025,38,2h 28min,5h 59min,2h 36min,6min
+3/31/2025,31,6h 33min,2h 20min,2h 24min,7min
+3/30/2025,19,10h 54min,1h 12min,13min,2min
+3/29/2025,30,6h 54min,8h 56min,1h 37min,16min
+3/28/2025,20,7h 0min,4h 15min,11min,1min
+3/27/2025,24,6h 44min,3h 53min,16min,1min
+3/26/2025,24,7h 4min,2h 45min,39min,21min
+3/25/2025,27,6h 2min,4h 27min,24min,11min
+3/24/2025,30,6h 49min,4h 13min,1h 23min,24min
+3/23/2025,20,12h 1min,2h 25min,39min,--
+3/22/2025,25,11h 5min,4h 39min,1h 29min,21min
+3/21/2025,24,6h 1min,3h 40min,18min,2min
+3/20/2025,21,7h 20min,2h 40min,24min,6min
+3/19/2025,22,8h 29min,2h 22min,13min,7min
+3/18/2025,19,9h 30min,2h 4min,8min,2min
+3/17/2025,17,11h 12min,23min,3min,4min
+3/16/2025,17,11h 5min,1h 9min,3min,--
+3/15/2025,36,5h 6min,9h 52min,2h 57min,29min
+3/14/2025,43,2h 54min,4h 39min,3h 14min,53min
+3/13/2025,21,9h 1min,2h 25min,21min,2min
+3/12/2025,27,5h 25min,5h 49min,21min,2min
+3/11/2025,24,6h 21min,3h 33min,10min,2min
+3/10/2025,23,7h 4min,3h 45min,8min,6min
+3/9/2025,29,8h 5min,5h 52min,1h 28min,21min
+3/8/2025,26,11h 40min,6h 6min,1h 4min,1min
+3/7/2025,25,7h 17min,1h 46min,43min,11min
+3/6/2025,24,7h 21min,2h 34min,30min,8min
+3/5/2025,31,3h 37min,5h 29min,56min,4min
+3/4/2025,27,6h 22min,3h 12min,1h 3min,3min
+3/3/2025,20,9h 43min,1h 46min,8min,8min
+3/2/2025,26,9h 39min,6h 2min,23min,13min
+3/1/2025,23,12h 20min,4h 24min,54min,10min
+2/28/2025,22,8h 52min,2h 18min,18min,3min
+2/27/2025,23,7h 48min,3h 38min,27min,4min
+2/26/2025,24,7h 20min,3h 22min,22min,4min
+2/25/2025,29,4h 21min,5h 12min,23min,9min
+2/24/2025,26,6h 55min,2h 51min,55min,10min
+2/23/2025,25,10h 21min,3h 12min,1h 3min,11min
+2/22/2025,28,11h 36min,3h 9min,1h 55min,1h 5min
+2/21/2025,20,8h 1min,1h 45min,9min,1min
+2/20/2025,28,3h 39min,5h 21min,29min,1min
+2/19/2025,29,6h 15min,4h 22min,49min,4min
+2/18/2025,28,6h 11min,3h 31min,47min,10min
+2/17/2025,27,10h 35min,5h 33min,1h 38min,18min
+2/16/2025,24,11h 49min,4h 14min,1h 13min,9min
+2/15/2025,26,11h 26min,7h 34min,48min,2min
+2/14/2025,32,3h 5min,4h 58min,42min,16min
+2/13/2025,26,6h 49min,2h 27min,53min,11min
+2/12/2025,24,5h 4min,3h 3min,14min,10min
+2/11/2025,25,6h 9min,4h 15min,20min,2min
+2/10/2025,24,7h 55min,1h 22min,33min,8min
+2/9/2025,28,8h 37min,7h 40min,1h 39min,1min
+2/8/2025,32,4h 26min,6h 14min,1h 8min,3min
+2/7/2025,33,2h 4min,5h 52min,42min,15min
+2/6/2025,25,6h 31min,2h 34min,45min,9min
+2/5/2025,36,4h 57min,11h 11min,3h 5min,7min
+2/4/2025,35,3h 7min,5h 53min,1h 9min,41min
+2/3/2025,28,5h 47min,5h 31min,33min,7min
+2/2/2025,32,9h 52min,6h 18min,2h 34min,34min
+2/1/2025,26,5h 18min,5h 33min,9min,2min
+1/31/2025,32,1h 49min,5h 44min,23min,2min
+1/30/2025,21,7h 38min,2h 23min,5min,--
+1/29/2025,34,4h 9min,10h 20min,2h 9min,7min
+1/28/2025,31,3h 38min,5h 51min,47min,1min
+1/27/2025,24,6h 26min,2h 47min,19min,3min
+1/26/2025,28,11h 20min,4h 5min,2h 33min,16min
+1/25/2025,30,3h 56min,6h 53min,34min,12min
+1/24/2025,34,1h 7min,5h 59min,41min,2min
+1/23/2025,32,5h 35min,1h 52min,2h 30min,5min
+1/22/2025,22,7h 5min,3h 6min,13min,1min
+1/21/2025,28,5h 6min,3h 17min,36min,17min
+1/20/2025,21,9h 26min,1h 33min,22min,1min
+1/19/2025,27,9h 29min,7h 10min,1h 14min,11min
+1/18/2025,31,5h 1min,4h 55min,1h 31min,8min
+1/17/2025,31,3h 30min,5h 50min,48min,9min
+1/16/2025,30,2h 10min,2h 11min,39min,3min
+1/15/2025,26,4h 2min,2h 21min,13min,2min
+1/14/2025,35,3h 50min,5h 43min,2h 8min,2min
+1/13/2025,28,6h 28min,3h 9min,1h 9min,7min
+1/12/2025,27,10h 40min,7h 28min,1h 26min,3min
+1/11/2025,30,5h 37min,4h 47min,53min,6min
+1/10/2025,33,2h 14min,7h 35min,55min,1min
+1/9/2025,27,5h 41min,4h 8min,28min,3min
+1/8/2025,31,9h 57min,4h 32min,2h 34min,52min
+1/7/2025,22,7h 25min,1h 44min,17min,--
+1/6/2025,26,7h 10min,3h 58min,18min,8min
+1/5/2025,27,10h 19min,6h 30min,1h 5min,13min
+1/4/2025,28,5h 38min,5h 53min,33min,--
+1/3/2025,28,5h 23min,4h 19min,26min,14min
+1/2/2025,24,8h 2min,2h 15min,43min,1min
+1/1/2025,29,9h 2min,7h 13min,1h 46min,3min
+12/31/2024,25,7h 14min,3h 58min,38min,2min
+12/30/2024,25,7h 11min,4h 10min,23min,--
+12/29/2024,30,9h 41min,6h 19min,2h 14min,11min
+12/28/2024,31,4h 3min,6h 9min,1h 12min,2min
+12/27/2024,25,7h 29min,2h 57min,33min,1min
+12/26/2024,34,5h 12min,7h 23min,2h 3min,35min
+12/25/2024,27,10h 37min,6h 50min,59min,3min
+12/24/2024,29,7h 12min,5h 33min,1h 2min,3min
+12/23/2024,21,9h 49min,2h 7min,23min,4min
+12/22/2024,17,17h 6min,1h 53min,11min,1min
+12/21/2024,20,8h 43min,1h 53min,17min,7min
+12/20/2024,22,8h 45min,2h 45min,9min,1min
+12/19/2024,29,7h 11min,2h 17min,1h 19min,18min
+12/18/2024,19,10h 20min,1h 46min,7min,--
+12/17/2024,24,8h 47min,2h 53min,26min,4min
+12/16/2024,21,9h 57min,1h 14min,23min,4min
+12/15/2024,21,12h 39min,2h 43min,24min,1min
+12/14/2024,20,10h 27min,2h 6min,25min,1min
+12/13/2024,20,10h 0min,56min,24min,2min
+12/12/2024,21,8h 25min,3h 2min,12min,1min
+12/11/2024,23,11h 17min,2h 38min,40min,6min
+12/10/2024,21,8h 38min,2h 51min,5min,7min
+12/9/2024,17,10h 52min,1h 19min,3min,--
+12/8/2024,20,14h 59min,4h 5min,44min,2min
+12/7/2024,25,8h 16min,1h 49min,1h 28min,9min
+12/6/2024,20,9h 59min,1h 59min,20min,--
+12/5/2024,19,10h 16min,1h 7min,21min,4min
+12/4/2024,25,11h 35min,2h 43min,2h 1min,25min
+12/3/2024,25,6h 16min,5h 17min,14min,--
+12/2/2024,25,4h 43min,3h 4min,52min,9min
+12/1/2024,17,17h 15min,1h 19min,30min,9min
+11/30/2024,23,7h 39min,3h 30min,37min,--
+11/29/2024,19,9h 38min,1h 40min,18min,3min
+11/28/2024,24,8h 37min,1h 38min,41min,4min
+11/27/2024,27,11h 23min,3h 50min,1h 14min,24min
+11/26/2024,38,2h 33min,7h 5min,2h 18min,11min
+11/25/2024,23,14h 9min,4h 31min,1h 5min,7min
+11/24/2024,20,16h 52min,5h 16min,6min,1min
+11/23/2024,33,6h 30min,8h 7min,1h 46min,31min
+11/22/2024,46,1h 9min,8h 36min,5h 33min,32min
+11/21/2024,38,5h 52min,6h 45min,4h 0min,31min
+11/20/2024,25,13h 18min,3h 46min,1h 15min,14min
+11/19/2024,26,12h 44min,4h 38min,1h 6min,19min
+11/18/2024,16,11h 28min,24min,3min,--
+11/17/2024,19,17h 23min,2h 44min,39min,--
+11/16/2024,29,10h 31min,6h 9min,2h 4min,20min
+11/15/2024,30,9h 19min,3h 6min,2h 32min,22min
+11/14/2024,24,12h 39min,5h 30min,1h 31min,4min
+11/13/2024,34,8h 50min,4h 29min,3h 13min,1h 11min
+11/12/2024,45,4h 19min,9h 47min,6h 32min,1h 50min
+11/11/2024,38,7h 1min,6h 12min,4h 59min,1h 6min
+11/10/2024,22,14h 53min,5h 2min,31min,--
+11/9/2024,36,4h 1min,11h 20min,2h 38min,6min
+11/8/2024,33,6h 22min,7h 13min,2h 16min,27min
+11/7/2024,32,8h 15min,7h 7min,2h 21min,16min
+11/6/2024,32,8h 44min,7h 32min,2h 7min,38min
+11/5/2024,34,6h 28min,9h 5min,2h 33min,11min
+11/4/2024,39,5h 41min,3h 4min,3h 1min,1h 12min
+11/3/2024,33,9h 55min,5h 30min,3h 27min,41min
+11/2/2024,24,12h 7min,5h 34min,44min,7min
+11/1/2024,29,9h 31min,8h 16min,1h 2min,27min
+10/31/2024,37,8h 19min,3h 24min,2h 31min,1h 45min
+10/30/2024,36,4h 38min,8h 7min,2h 33min,41min
+10/29/2024,36,4h 46min,8h 35min,2h 50min,16min
+10/28/2024,30,10h 53min,7h 28min,2h 23min,12min
+10/27/2024,30,7h 36min,12h 47min,50min,1min
+10/26/2024,37,6h 8min,7h 3min,3h 34min,39min
+10/25/2024,27,8h 59min,4h 14min,1h 19min,3min
+10/24/2024,30,3h 16min,8h 9min,31min,1min
+10/23/2024,35,4h 33min,6h 22min,1h 57min,19min
+10/22/2024,39,5h 33min,6h 28min,4h 20min,1h 24min
+10/21/2024,38,6h 41min,6h 1min,3h 49min,1h 40min
+10/20/2024,39,6h 43min,6h 44min,4h 45min,55min
+10/19/2024,26,8h 56min,5h 12min,1h 2min,13min
+10/18/2024,33,7h 50min,3h 14min,2h 18min,47min
+10/17/2024,26,11h 24min,5h 54min,1h 15min,7min
+10/16/2024,32,7h 5min,3h 2min,2h 19min,50min
+10/15/2024,38,5h 48min,8h 4min,4h 3min,42min
+10/14/2024,27,11h 25min,5h 54min,1h 12min,12min
+10/13/2024,24,12h 17min,5h 43min,54min,3min
+10/12/2024,32,9h 29min,6h 5min,2h 24min,30min
+10/11/2024,25,11h 29min,2h 56min,1h 4min,23min
+10/10/2024,22,13h 36min,4h 3min,38min,7min
+10/9/2024,24,12h 32min,4h 35min,1h 2min,6min
+10/8/2024,26,10h 0min,6h 42min,1h 24min,5min
+10/7/2024,23,12h 27min,4h 3min,1h 44min,8min
+10/6/2024,21,5h 13min,1h 8min,7min,--
+10/5/2024,31,8h 0min,4h 58min,2h 1min,16min
+10/4/2024,32,8h 50min,5h 7min,2h 24min,37min
+10/3/2024,32,9h 8min,9h 21min,2h 22min,8min
+10/2/2024,30,9h 37min,2h 6min,2h 12min,43min
+10/1/2024,34,9h 21min,5h 39min,3h 54min,27min
+9/30/2024,30,10h 36min,3h 56min,2h 39min,1min
+9/29/2024,24,10h 46min,5h 59min,54min,4min
+9/28/2024,34,5h 42min,10h 16min,2h 14min,15min
+9/27/2024,29,8h 50min,8h 34min,1h 18min,8min
+9/26/2024,28,11h 16min,4h 7min,2h 30min,12min
+9/25/2024,26,8h 39min,2h 21min,1h 7min,17min
+9/24/2024,31,9h 20min,7h 32min,2h 53min,19min
+9/23/2024,32,8h 10min,6h 33min,2h 27min,38min
+9/22/2024,28,11h 7min,8h 52min,1h 19min,2min
+9/21/2024,35,6h 13min,7h 11min,2h 58min,25min
+9/20/2024,34,8h 22min,7h 7min,3h 12min,50min
+9/19/2024,29,11h 21min,7h 0min,1h 58min,14min
+9/18/2024,33,6h 1min,5h 51min,2h 12min,13min
+9/17/2024,26,8h 46min,4h 23min,39min,5min
+9/16/2024,33,9h 11min,3h 42min,3h 33min,1h 10min
+9/15/2024,25,14h 8min,7h 2min,55min,2min
+9/14/2024,31,8h 1min,7h 53min,1h 37min,15min
+9/13/2024,31,9h 7min,5h 6min,2h 51min,36min
+9/12/2024,36,8h 56min,4h 55min,2h 55min,1h 37min
+9/11/2024,22,13h 57min,4h 44min,39min,4min
+9/10/2024,26,11h 15min,3h 44min,1h 34min,11min
+9/9/2024,23,11h 12min,5h 2min,22min,1min
+9/8/2024,28,10h 35min,6h 54min,1h 39min,2min
+9/7/2024,24,9h 49min,5h 16min,54min,5min
+9/6/2024,31,9h 44min,3h 39min,2h 30min,42min
+9/5/2024,24,11h 55min,4h 25min,1h 22min,2min
+9/4/2024,30,8h 45min,4h 42min,1h 37min,28min
+9/3/2024,28,10h 24min,4h 13min,2h 2min,19min
+9/2/2024,29,9h 27min,5h 28min,1h 39min,41min
+9/1/2024,33,6h 3min,10h 42min,1h 56min,9min
+8/31/2024,35,10h 55min,4h 19min,1h 44min,2h 19min
+8/30/2024,30,10h 24min,4h 40min,2h 34min,32min
+8/29/2024,26,10h 17min,3h 23min,1h 41min,3min
+8/28/2024,37,4h 9min,3h 51min,2h 28min,21min
+8/27/2024,26,8h 44min,29min,38min,1h 12min
+8/26/2024,37,6h 29min,5h 34min,2h 58min,1h 0min
+8/25/2024,28,10h 1min,6h 46min,1h 18min,5min
+8/24/2024,31,9h 34min,4h 30min,1h 54min,1h 20min
+8/23/2024,29,11h 45min,4h 22min,2h 28min,14min
+8/22/2024,33,9h 5min,4h 39min,2h 44min,57min
+8/21/2024,25,3h 9min,2h 52min,2min,--
+8/20/2024,27,9h 44min,3h 59min,1h 58min,13min
+8/19/2024,26,9h 29min,5h 7min,1h 40min,6min
+8/18/2024,28,10h 41min,5h 53min,1h 24min,11min
+8/17/2024,29,10h 7min,4h 13min,2h 31min,26min
+8/16/2024,27,11h 25min,6h 13min,1h 18min,8min
+8/15/2024,32,6h 27min,5h 14min,1h 47min,29min
+8/14/2024,25,10h 2min,6h 13min,41min,2min
+8/13/2024,36,7h 42min,3h 32min,2h 49min,1h 41min
+8/12/2024,30,7h 23min,5h 29min,1h 47min,12min
+8/11/2024,26,11h 39min,4h 9min,1h 13min,18min
+8/10/2024,27,9h 19min,3h 35min,1h 19min,20min
+8/9/2024,25,7h 15min,3h 32min,38min,1min
+8/8/2024,24,7h 55min,2h 36min,56min,10min
+8/7/2024,34,6h 36min,6h 57min,2h 36min,34min
+8/6/2024,29,9h 14min,3h 38min,1h 44min,28min
+8/5/2024,25,8h 22min,2h 46min,48min,10min
+8/4/2024,24,12h 30min,4h 43min,36min,3min
+8/3/2024,28,8h 46min,7h 1min,1h 8min,1min
+8/2/2024,44,1h 58min,8h 38min,4h 40min,39min
+8/1/2024,39,6h 28min,2h 36min,3h 15min,1h 26min
+7/31/2024,35,4h 13min,8h 16min,1h 47min,34min
+7/30/2024,26,10h 36min,4h 36min,53min,8min
+7/29/2024,31,8h 52min,7h 24min,2h 10min,19min
+7/28/2024,31,8h 56min,8h 30min,2h 17min,14min
+7/27/2024,38,7h 29min,3h 59min,4h 58min,58min
+7/26/2024,36,7h 54min,7h 6min,2h 46min,1h 3min
+7/25/2024,28,10h 37min,4h 40min,2h 4min,13min
+7/24/2024,31,9h 14min,6h 0min,2h 9min,29min
+7/23/2024,41,6h 12min,3h 50min,3h 10min,1h 42min
+7/22/2024,26,10h 25min,3h 11min,1h 53min,22min
+7/21/2024,22,14h 45min,5h 57min,25min,--
+7/20/2024,34,7h 12min,6h 18min,3h 13min,18min
+7/19/2024,30,8h 13min,7h 59min,1h 56min,11min
+7/18/2024,31,7h 11min,4h 1min,2h 14min,15min
+7/17/2024,39,3h 44min,8h 19min,3h 23min,24min
+7/16/2024,37,4h 23min,5h 32min,2h 33min,34min
+7/15/2024,26,7h 44min,5h 1min,49min,13min
+7/14/2024,34,9h 32min,5h 25min,3h 55min,39min
+7/13/2024,36,6h 39min,7h 37min,3h 45min,20min
+7/12/2024,27,8h 44min,5h 59min,43min,6min
+7/11/2024,32,9h 29min,6h 2min,2h 36min,39min
+7/10/2024,31,9h 0min,4h 22min,3h 7min,16min
+7/9/2024,26,10h 38min,5h 59min,1h 11min,9min
+7/8/2024,28,8h 32min,8h 17min,1h 4min,15min
+7/7/2024,30,10h 38min,4h 2min,2h 1min,50min
+7/6/2024,32,10h 23min,5h 28min,3h 13min,20min
+7/5/2024,33,5h 55min,8h 36min,2h 32min,11min
+7/4/2024,30,7h 38min,9h 24min,58min,8min
+7/3/2024,35,6h 13min,9h 44min,3h 2min,13min
+7/2/2024,36,4h 49min,6h 56min,2h 41min,28min
+7/1/2024,39,6h 12min,7h 5min,2h 27min,2h 18min
+6/30/2024,35,4h 59min,7h 6min,1h 48min,29min
+6/29/2024,37,6h 56min,7h 5min,3h 8min,1h 2min
+6/28/2024,34,6h 33min,7h 39min,2h 32min,29min
+6/27/2024,36,7h 32min,6h 37min,3h 53min,53min
+6/26/2024,33,8h 15min,6h 59min,2h 57min,25min
+6/25/2024,33,5h 57min,10h 58min,1h 49min,12min
+6/24/2024,29,8h 59min,6h 12min,1h 38min,10min
+6/23/2024,32,6h 19min,10h 42min,1h 54min,5min
+6/22/2024,38,3h 59min,7h 12min,3h 17min,34min
+6/21/2024,39,5h 37min,4h 52min,3h 42min,50min
+6/20/2024,27,12h 5min,4h 36min,1h 27min,19min
+6/19/2024,39,5h 46min,7h 55min,4h 51min,33min
+6/18/2024,39,5h 30min,5h 8min,4h 42min,32min
+6/17/2024,31,8h 58min,7h 30min,2h 12min,31min
+6/16/2024,27,10h 50min,10h 33min,21min,3min
+6/15/2024,36,7h 16min,5h 32min,3h 49min,44min
+6/14/2024,36,6h 23min,7h 24min,3h 11min,37min
+6/13/2024,35,7h 9min,7h 40min,2h 55min,36min
+6/12/2024,29,11h 9min,4h 14min,2h 40min,24min
+6/11/2024,29,8h 10min,7h 55min,1h 1min,7min
+6/10/2024,29,7h 21min,5h 39min,1h 10min,21min
+6/9/2024,25,12h 24min,6h 49min,32min,1min
+6/8/2024,36,6h 31min,6h 32min,3h 19min,29min
+6/7/2024,29,8h 0min,3h 39min,1h 12min,33min
+6/6/2024,36,6h 42min,6h 1min,3h 10min,25min
+6/5/2024,32,6h 23min,8h 46min,1h 43min,10min
+6/4/2024,27,7h 10min,2h 24min,1h 10min,9min
+6/3/2024,37,6h 15min,7h 47min,3h 45min,35min
+6/2/2024,32,8h 30min,4h 48min,2h 56min,40min
+6/1/2024,26,7h 56min,7h 26min,22min,--
+5/31/2024,40,4h 30min,10h 0min,5h 18min,33min
+5/30/2024,39,5h 5min,6h 0min,4h 19min,39min
+5/29/2024,32,8h 30min,7h 58min,2h 42min,13min
+5/28/2024,27,6h 39min,4h 3min,1h 2min,1min
+5/27/2024,33,7h 11min,6h 35min,2h 52min,20min
+5/26/2024,32,9h 17min,6h 4min,3h 23min,23min
+5/25/2024,30,8h 52min,6h 9min,1h 41min,14min
+5/24/2024,36,5h 14min,7h 55min,2h 56min,43min
+5/23/2024,35,5h 16min,9h 54min,3h 15min,4min
+5/22/2024,28,8h 45min,4h 59min,1h 33min,2min
+5/21/2024,26,9h 44min,8h 40min,37min,--
+5/20/2024,26,10h 59min,5h 1min,1h 50min,12min
+5/19/2024,25,12h 53min,6h 0min,58min,10min
+5/18/2024,32,9h 1min,4h 50min,2h 58min,20min
+5/17/2024,32,8h 39min,6h 55min,3h 6min,6min
+5/16/2024,37,7h 58min,3h 43min,4h 52min,1h 8min
+5/15/2024,41,4h 39min,8h 15min,4h 45min,55min
+5/14/2024,62,2min,3h 39min,12h 30min,2h 51min
+5/13/2024,52,5h 58min,3h 14min,6h 14min,5h 30min
+5/12/2024,29,8h 34min,10h 40min,1h 14min,6min
+5/11/2024,36,7h 50min,4h 7min,3h 17min,1h 3min
+5/10/2024,28,10h 7min,7h 15min,1h 25min,5min
+5/9/2024,28,10h 15min,5h 6min,1h 55min,10min
+5/8/2024,23,13h 32min,5h 3min,1h 18min,6min
+5/7/2024,24,13h 0min,4h 4min,1h 48min,9min
+5/6/2024,24,10h 36min,4h 28min,36min,4min
+5/5/2024,24,12h 57min,3h 46min,53min,8min
+5/4/2024,32,9h 2min,4h 59min,2h 30min,33min
+5/3/2024,32,8h 27min,6h 30min,2h 33min,23min
+5/2/2024,31,8h 19min,8h 7min,2h 30min,9min
+5/1/2024,28,11h 43min,6h 49min,2h 3min,5min
+4/30/2024,34,5h 27min,8h 23min,2h 49min,3min
+4/29/2024,33,7h 45min,3h 53min,2h 59min,19min
+4/28/2024,31,7h 0min,10h 40min,1h 47min,6min
+4/27/2024,40,2h 49min,10h 5min,3h 28min,41min
+4/26/2024,37,4h 32min,9h 23min,2h 47min,24min
+4/25/2024,25,11h 50min,5h 59min,41min,3min
+4/24/2024,30,8h 15min,6h 18min,1h 51min,20min
+4/23/2024,27,9h 51min,6h 31min,1h 22min,11min
+4/22/2024,20,8h 52min,2h 2min,17min,--
+4/21/2024,24,13h 49min,5h 57min,28min,6min
+4/20/2024,32,5h 37min,11h 35min,1h 23min,14min
+4/19/2024,33,8h 20min,4h 38min,3h 25min,23min
+4/18/2024,24,12h 8min,4h 44min,43min,6min
+4/17/2024,23,13h 7min,5h 55min,29min,1min
+4/16/2024,26,7h 47min,4h 28min,44min,--
+4/15/2024,29,10h 0min,5h 29min,2h 16min,6min
+4/14/2024,34,7h 32min,7h 42min,3h 11min,18min
+4/13/2024,29,9h 54min,5h 20min,2h 31min,15min
+4/12/2024,24,13h 34min,5h 45min,46min,7min
+4/11/2024,31,8h 27min,6h 4min,2h 35min,21min
+4/10/2024,30,7h 21min,6h 30min,1h 32min,9min
+4/9/2024,34,9h 30min,3h 58min,3h 10min,1h 13min
+4/8/2024,28,9h 3min,5h 16min,2h 14min,6min
+4/7/2024,25,11h 53min,6h 1min,45min,6min
+4/6/2024,25,11h 54min,3h 43min,1h 18min,9min
+4/5/2024,31,6h 50min,8h 53min,1h 52min,5min
+4/4/2024,30,8h 15min,6h 48min,1h 32min,22min
+4/3/2024,30,6h 34min,5h 59min,1h 15min,12min
+4/2/2024,35,8h 56min,4h 39min,3h 35min,42min
+4/1/2024,29,10h 51min,6h 43min,1h 59min,15min
+3/31/2024,25,10h 55min,7h 1min,47min,5min
+3/30/2024,36,8h 2min,7h 7min,3h 35min,32min
+3/29/2024,30,6h 31min,8h 5min,1h 26min,2min
+3/28/2024,26,9h 12min,4h 20min,46min,5min
+3/27/2024,29,9h 57min,6h 43min,1h 29min,26min
+3/26/2024,27,10h 40min,7h 39min,1h 14min,5min
+3/25/2024,28,10h 31min,4h 27min,1h 26min,32min
+3/24/2024,38,3h 35min,11h 23min,3h 10min,22min
+3/23/2024,38,2h 46min,4h 29min,2h 13min,11min
+3/22/2024,24,5h 46min,2h 20min,7min,--
+3/21/2024,32,9h 9min,4h 48min,2h 22min,34min
+3/20/2024,26,10h 5min,6h 28min,1h 14min,11min
+3/19/2024,34,8h 21min,4h 25min,3h 25min,35min
+3/18/2024,24,14h 27min,4h 31min,1h 54min,3min
+3/17/2024,32,8h 54min,4h 33min,2h 26min,34min
+3/16/2024,23,14h 10min,5h 14min,36min,3min
+3/15/2024,33,8h 18min,6h 29min,2h 54min,14min
+3/14/2024,23,13h 52min,5h 9min,28min,1min
+3/13/2024,30,8h 56min,8h 13min,1h 51min,5min
+3/12/2024,26,11h 33min,5h 15min,1h 9min,12min
+3/11/2024,22,12h 33min,2h 31min,51min,18min
+3/10/2024,20,15h 16min,3h 34min,18min,2min
+3/9/2024,27,8h 35min,6h 47min,1h 0min,11min
+3/8/2024,30,7h 45min,7h 47min,1h 43min,5min
+3/7/2024,34,8h 50min,7h 17min,3h 6min,25min
+3/6/2024,26,12h 44min,6h 26min,50min,2min
+3/5/2024,32,8h 12min,7h 27min,2h 13min,32min
+3/4/2024,32,8h 5min,5h 12min,3h 2min,12min
+3/3/2024,22,14h 16min,4h 6min,41min,7min
+3/2/2024,25,13h 2min,5h 44min,54min,2min
+3/1/2024,29,8h 34min,6h 58min,55min,14min
+2/29/2024,35,6h 58min,6h 45min,2h 48min,24min
+2/28/2024,26,10h 30min,5h 31min,56min,4min
+2/27/2024,32,8h 59min,4h 13min,2h 35min,33min
+2/26/2024,29,9h 24min,7h 32min,1h 58min,5min
+2/25/2024,24,12h 39min,6h 43min,39min,1min
+2/24/2024,34,7h 30min,5h 5min,3h 14min,18min
+2/23/2024,26,10h 39min,6h 28min,1h 36min,6min
+2/22/2024,33,8h 36min,5h 3min,3h 6min,16min
+2/21/2024,34,7h 53min,5h 48min,3h 3min,39min
+2/20/2024,33,6h 55min,4h 48min,2h 32min,4min
+2/19/2024,32,5h 4min,6h 11min,1h 28min,28min
+2/18/2024,30,12h 39min,4h 27min,2h 33min,35min
+2/17/2024,25,7h 44min,3h 8min,34min,7min
+2/16/2024,27,10h 40min,5h 9min,2h 3min,16min
+2/15/2024,20,16h 2min,5h 28min,21min,2min
+2/14/2024,30,8h 16min,5h 4min,2h 31min,13min
+2/13/2024,29,10h 20min,3h 43min,2h 19min,14min
+2/12/2024,23,9h 57min,2h 54min,36min,7min
+2/11/2024,26,12h 4min,5h 9min,1h 54min,4min
+2/10/2024,28,8h 17min,5h 59min,1h 6min,12min
+2/9/2024,29,6h 46min,6h 8min,1h 4min,7min
+2/8/2024,29,9h 27min,6h 15min,1h 53min,7min
+2/7/2024,30,10h 40min,5h 43min,1h 50min,58min
+2/6/2024,31,9h 37min,5h 29min,2h 54min,19min
+2/5/2024,29,10h 13min,3h 1min,2h 31min,22min
+2/4/2024,22,15h 19min,4h 19min,38min,1min
+2/3/2024,28,12h 0min,5h 17min,2h 14min,8min
+2/2/2024,26,13h 0min,5h 12min,1h 10min,5min
+2/1/2024,21,11h 10min,2h 7min,4min,--
+1/31/2024,31,10h 41min,4h 56min,3h 11min,20min
+1/30/2024,31,9h 45min,5h 29min,2h 57min,19min
+1/29/2024,31,10h 28min,6h 2min,2h 40min,19min
+1/28/2024,22,15h 4min,4h 37min,12min,--
+1/27/2024,26,12h 58min,5h 9min,1h 40min,1min
+1/26/2024,27,7h 57min,4h 12min,51min,8min
+1/25/2024,24,11h 12min,4h 14min,49min,1min
+1/24/2024,28,10h 15min,4h 22min,2h 21min,7min
+1/23/2024,21,14h 54min,3h 35min,35min,--
+1/22/2024,19,12h 33min,1h 28min,19min,4min
+1/21/2024,20,11h 44min,2h 3min,30min,1min
+1/20/2024,25,11h 14min,6h 16min,57min,7min
+1/19/2024,26,9h 36min,6h 26min,42min,6min
+1/18/2024,20,13h 44min,2h 9min,10min,--
+1/17/2024,28,10h 38min,5h 11min,1h 39min,19min
+1/16/2024,25,11h 41min,5h 38min,40min,1min
+1/15/2024,27,11h 25min,5h 39min,1h 20min,19min
+1/14/2024,26,12h 40min,5h 9min,1h 50min,13min
+1/13/2024,38,8h 35min,3h 39min,4h 6min,1h 47min
+1/12/2024,26,11h 14min,6h 49min,1h 4min,2min
+1/11/2024,33,10h 58min,3h 54min,3h 20min,1h 4min
+1/10/2024,28,5h 35min,4h 14min,39min,5min
+1/9/2024,29,7h 3min,6h 51min,1h 18min,5min
+1/8/2024,31,8h 56min,5h 35min,2h 14min,20min
+1/7/2024,25,12h 8min,8h 38min,34min,2min
+1/6/2024,31,8h 55min,6h 34min,2h 20min,17min
+1/5/2024,26,8h 49min,4h 13min,1h 2min,1min
+1/4/2024,26,12h 0min,6h 4min,1h 15min,7min
+1/3/2024,25,11h 22min,4h 50min,1h 1min,13min
+1/2/2024,29,10h 6min,5h 24min,2h 3min,17min
+1/1/2024,25,12h 31min,6h 13min,46min,14min
+12/31/2023,33,6h 58min,4h 55min,2h 42min,12min
+12/30/2023,23,11h 45min,4h 50min,44min,3min
+12/29/2023,29,9h 27min,5h 26min,1h 41min,24min
+12/28/2023,22,14h 36min,4h 38min,36min,--
+12/27/2023,25,9h 57min,5h 32min,56min,--
+12/26/2023,33,6h 8min,5h 43min,2h 23min,15min
+12/25/2023,38,3h 23min,4h 40min,2h 42min,15min
+12/24/2023,37,6h 53min,5h 1min,4h 41min,30min
+12/23/2023,28,9h 8min,7h 27min,1h 31min,2min
+12/22/2023,40,5h 55min,4h 52min,5h 1min,39min
+12/21/2023,29,8h 34min,4h 42min,1h 33min,19min
+12/20/2023,26,9h 40min,4h 17min,1h 35min,6min
+12/19/2023,22,13h 28min,4h 19min,53min,8min
+12/18/2023,24,13h 19min,3h 41min,1h 11min,28min
+12/17/2023,31,7h 54min,5h 30min,2h 24min,14min
+12/16/2023,35,8h 35min,4h 59min,4h 0min,40min
+12/15/2023,30,10h 27min,5h 13min,2h 40min,26min
+12/14/2023,24,11h 17min,3h 36min,1h 18min,5min
+12/13/2023,27,9h 26min,4h 11min,1h 38min,12min
+12/12/2023,28,10h 6min,3h 40min,2h 15min,13min
+12/11/2023,28,8h 52min,5h 56min,1h 53min,14min
+12/10/2023,26,9h 56min,3h 54min,1h 21min,2min
+12/9/2023,23,13h 15min,3h 47min,49min,1min
+12/8/2023,35,6h 50min,8h 22min,3h 24min,18min
+12/7/2023,28,10h 32min,4h 3min,1h 48min,41min
+12/6/2023,23,13h 40min,3h 37min,1h 17min,12min
+12/5/2023,18,14h 14min,1h 54min,42min,2min
+12/4/2023,23,10h 22min,4h 56min,33min,4min
+12/3/2023,25,13h 16min,6h 28min,53min,10min
+12/2/2023,33,6h 37min,4h 29min,2h 41min,18min
+12/1/2023,34,5h 23min,7h 17min,2h 17min,5min
+11/30/2023,38,6h 19min,2h 42min,3h 40min,31min
+11/29/2023,24,13h 14min,4h 21min,1h 0min,5min
+11/28/2023,29,9h 41min,4h 35min,2h 29min,18min
+11/27/2023,28,9h 23min,8h 1min,1h 10min,4min
+11/26/2023,24,10h 12min,5h 32min,44min,5min
+11/25/2023,18,16h 48min,3h 25min,31min,2min
+11/24/2023,24,10h 39min,5h 32min,41min,--
+11/23/2023,28,9h 7min,7h 28min,1h 0min,--
+11/22/2023,23,11h 39min,2h 57min,59min,6min
+11/21/2023,20,15h 19min,3h 20min,33min,2min
+11/20/2023,21,12h 58min,3h 46min,20min,--
+11/19/2023,25,8h 54min,4h 29min,43min,8min
+11/18/2023,30,7h 52min,8h 11min,1h 33min,6min
+11/17/2023,34,4h 56min,6h 38min,1h 34min,31min
+11/16/2023,25,12h 56min,5h 17min,1h 6min,7min
+11/15/2023,25,10h 45min,3h 51min,1h 29min,20min
+11/14/2023,27,11h 38min,4h 37min,2h 7min,9min
+11/13/2023,29,8h 42min,3h 44min,1h 48min,6min
+11/12/2023,26,11h 55min,7h 28min,56min,2min
+11/11/2023,34,7h 44min,3h 39min,2h 52min,26min
+11/10/2023,30,10h 26min,5h 18min,2h 8min,38min
+11/9/2023,31,8h 34min,6h 30min,2h 12min,20min
+11/8/2023,27,11h 27min,5h 51min,1h 49min,6min
+11/7/2023,45,4h 35min,9h 0min,7h 26min,1h 41min
+11/6/2023,31,9h 33min,6h 39min,2h 31min,24min
+11/5/2023,36,7h 18min,4h 20min,3h 25min,1h 19min
+11/4/2023,27,10h 43min,5h 31min,1h 33min,13min
+11/3/2023,29,8h 58min,6h 22min,1h 56min,11min
+11/2/2023,33,9h 0min,5h 37min,2h 49min,32min
+11/1/2023,27,7h 47min,6h 14min,50min,--
+10/31/2023,26,10h 35min,4h 44min,1h 44min,8min
+10/30/2023,27,11h 2min,7h 4min,1h 15min,--
+10/29/2023,33,8h 20min,7h 1min,3h 17min,11min
+10/28/2023,31,7h 30min,7h 13min,2h 9min,7min
+10/27/2023,36,6h 45min,5h 54min,3h 28min,20min
+10/26/2023,31,9h 28min,6h 28min,2h 26min,13min
+10/25/2023,37,5h 2min,6h 36min,3h 10min,32min
+10/24/2023,36,6h 48min,7h 58min,3h 22min,32min
+10/23/2023,34,7h 49min,8h 39min,3h 19min,20min
+10/22/2023,37,7h 5min,6h 20min,3h 5min,1h 16min
+10/21/2023,33,8h 42min,6h 41min,2h 40min,30min
+10/20/2023,34,8h 35min,6h 24min,3h 27min,52min
+10/19/2023,30,9h 40min,7h 45min,2h 14min,22min
+10/18/2023,39,2h 57min,14h 56min,3h 43min,21min
+10/17/2023,37,3h 42min,9h 25min,2h 25min,32min
+10/16/2023,31,7h 55min,9h 49min,2h 22min,7min
+10/15/2023,24,12h 43min,6h 59min,40min,--
+10/14/2023,34,8h 17min,4h 24min,2h 44min,37min
+10/13/2023,35,6h 17min,4h 6min,2h 29min,45min
+10/12/2023,39,6h 44min,4h 47min,3h 24min,1h 37min
+10/11/2023,27,9h 41min,2h 42min,1h 35min,25min
+10/10/2023,28,10h 14min,6h 1min,1h 21min,6min
+10/9/2023,32,8h 53min,4h 24min,3h 26min,32min
+10/8/2023,25,13h 0min,5h 10min,1h 13min,5min
+10/7/2023,27,10h 18min,4h 11min,2h 4min,18min
+10/6/2023,30,4h 53min,5h 56min,51min,1min
+10/5/2023,33,7h 12min,8h 26min,2h 49min,19min
+10/4/2023,26,10h 8min,7h 3min,53min,5min
+10/3/2023,32,8h 41min,3h 52min,2h 30min,48min
+10/2/2023,26,9h 25min,3h 45min,1h 25min,17min
+10/1/2023,23,14h 5min,5h 13min,46min,4min
+9/30/2023,28,9h 18min,6h 12min,1h 7min,13min
+9/29/2023,28,8h 45min,5h 33min,1h 26min,8min
+9/28/2023,30,8h 51min,6h 5min,1h 43min,12min
+9/27/2023,26,9h 21min,6h 6min,58min,4min
+9/26/2023,32,9h 3min,4h 3min,2h 16min,1h 17min
+9/25/2023,28,10h 36min,4h 21min,2h 27min,15min
+9/24/2023,32,9h 14min,7h 25min,3h 2min,32min
+9/23/2023,30,9h 45min,7h 26min,1h 59min,19min
+9/22/2023,34,8h 8min,4h 49min,3h 47min,25min
+9/21/2023,32,5h 59min,8h 1min,1h 52min,6min
+9/20/2023,28,9h 3min,3h 24min,1h 32min,43min
+9/19/2023,24,11h 38min,4h 27min,1h 5min,5min
+9/18/2023,26,10h 51min,3h 1min,1h 26min,9min
+9/17/2023,30,10h 32min,3h 41min,2h 45min,21min
+9/16/2023,29,10h 38min,3h 44min,3h 3min,48min
+9/15/2023,30,8h 15min,4h 50min,1h 40min,26min
+9/14/2023,30,9h 42min,5h 29min,2h 37min,15min
+9/13/2023,34,6h 54min,4h 59min,1h 36min,56min
+9/12/2023,31,9h 57min,4h 10min,2h 40min,25min
+9/11/2023,27,12h 41min,4h 4min,1h 49min,44min
+9/10/2023,27,10h 43min,5h 40min,1h 41min,8min
+9/9/2023,38,7h 1min,3h 45min,3h 55min,1h 0min
+9/8/2023,34,6h 37min,6h 48min,2h 39min,20min
+9/7/2023,33,8h 35min,4h 4min,3h 17min,39min
+9/6/2023,28,11h 9min,7h 6min,1h 59min,2min
+9/5/2023,35,6h 19min,5h 45min,3h 6min,29min
+9/4/2023,26,9h 58min,2h 56min,1h 3min,23min
+9/3/2023,32,7h 46min,7h 11min,2h 9min,14min
+9/2/2023,45,40min,2h 11min,1h 42min,12min
+9/1/2023,33,7h 36min,1h 14min,1h 39min,1h 57min
+8/31/2023,27,10h 5min,3h 6min,2h 7min,12min
+8/30/2023,27,11h 13min,6h 19min,1h 44min,3min
+8/29/2023,34,7h 7min,8h 8min,2h 24min,40min
+8/28/2023,21,8h 33min,2h 45min,25min,--
+8/27/2023,30,8h 22min,8h 0min,1h 31min,6min
+8/26/2023,32,7h 17min,7h 29min,2h 24min,26min
+8/25/2023,27,10h 7min,8h 33min,56min,2min
+8/24/2023,34,7h 4min,4h 6min,2h 15min,1h 7min
+8/23/2023,25,13h 16min,6h 10min,53min,8min
+8/22/2023,29,10h 0min,4h 36min,1h 50min,49min
+8/21/2023,29,8h 5min,5h 41min,1h 48min,12min
+8/20/2023,34,7h 20min,8h 21min,2h 27min,33min
+8/19/2023,27,8h 46min,4h 57min,1h 18min,6min
+8/18/2023,22,12h 36min,4h 30min,27min,7min
+8/17/2023,25,11h 40min,3h 19min,1h 14min,13min
+8/16/2023,27,12h 6min,3h 2min,1h 51min,46min
+8/15/2023,30,2h 24min,1h 33min,38min,5min
+8/14/2023,27,7h 25min,5h 48min,54min,7min
+8/13/2023,21,12h 23min,2h 33min,1h 28min,14min
+8/12/2023,28,9h 44min,4h 57min,1h 23min,12min
+8/11/2023,24,10h 57min,3h 41min,1h 15min,31min
+8/10/2023,24,12h 30min,5h 37min,28min,11min
+8/9/2023,25,9h 51min,5h 44min,59min,4min
+8/8/2023,31,7h 45min,2h 25min,1h 50min,1h 27min
+8/7/2023,16,19h 43min,2h 9min,8min,--
+8/6/2023,21,12h 2min,3h 51min,1h 5min,6min
+8/5/2023,14,15h 2min,1h 20min,9min,2min
+8/4/2023,25,10h 27min,5h 12min,1h 37min,5min
+8/3/2023,14,10h 11min,50min,9min,5min
+8/2/2023,23,16h 56min,5h 53min,1h 15min,25min
+8/1/2023,41,2h 38min,5h 20min,2h 31min,41min
+7/31/2023,48,2h 38min,4h 38min,5h 34min,1h 18min
+7/30/2023,40,4h 41min,5h 18min,3h 11min,1h 10min
+7/29/2023,35,6h 31min,3h 17min,2h 28min,39min
+7/28/2023,39,5h 40min,4h 33min,2h 59min,1h 12min
+7/27/2023,37,7h 4min,5h 3min,3h 34min,1h 14min
+7/26/2023,36,5h 56min,7h 12min,3h 9min,20min
+7/25/2023,41,7h 0min,4h 46min,3h 30min,2h 42min
+7/24/2023,39,4h 17min,8h 37min,3h 23min,34min
+7/23/2023,43,3h 33min,6h 42min,3h 57min,1h 20min
+7/22/2023,41,3h 57min,7h 41min,4h 28min,46min
+7/21/2023,43,4h 43min,5h 2min,5h 19min,1h 6min
+7/20/2023,43,4h 3min,8h 44min,4h 29min,1h 12min
+7/19/2023,37,6h 39min,8h 15min,4h 29min,33min
+7/18/2023,50,1h 54min,8h 25min,6h 10min,2h 14min
+7/17/2023,30,6h 15min,1h 56min,1h 56min,34min
+7/16/2023,41,6h 33min,3h 52min,4h 19min,1h 58min
+7/15/2023,36,7h 24min,4h 47min,3h 51min,1h 2min
+7/14/2023,38,4h 23min,8h 45min,3h 31min,27min
+7/13/2023,41,3h 11min,8h 51min,4h 9min,29min
+7/12/2023,45,3h 35min,6h 41min,5h 38min,1h 14min
+7/11/2023,43,4h 43min,6h 19min,4h 30min,1h 22min
+7/10/2023,37,5h 42min,6h 32min,1h 51min,1h 21min
+7/9/2023,44,4h 0min,5h 35min,5h 57min,59min
+7/8/2023,41,4h 7min,5h 55min,4h 21min,44min
+7/7/2023,43,4h 43min,3h 11min,3h 2min,2h 7min
+7/6/2023,46,3h 13min,3h 46min,4h 25min,1h 14min
+7/5/2023,35,6h 31min,5h 10min,3h 51min,19min
+7/4/2023,48,2h 8min,2h 38min,1h 56min,1h 42min
+7/3/2023,46,3h 31min,3h 15min,3h 55min,1h 41min
+7/2/2023,44,6h 21min,4h 2min,4h 14min,2h 51min
+7/1/2023,44,5h 5min,2h 30min,3h 46min,2h 9min
+6/30/2023,38,5h 57min,3h 19min,4h 19min,45min
+6/29/2023,45,4h 6min,5h 41min,5h 7min,1h 40min
+6/28/2023,41,5h 35min,3h 4min,3h 32min,1h 57min
+6/27/2023,32,5h 0min,4h 17min,1h 26min,17min
+6/26/2023,41,3h 41min,6h 39min,4h 25min,37min
+6/25/2023,38,5h 31min,5h 10min,4h 37min,38min
+6/24/2023,28,8h 20min,3h 16min,1h 32min,18min
+6/23/2023,42,2h 31min,8h 24min,3h 50min,55min
+6/22/2023,44,4h 18min,5h 24min,3h 51min,1h 51min
+6/21/2023,41,3h 44min,7h 5min,3h 22min,53min
+6/20/2023,43,4h 58min,3h 48min,5h 45min,1h 5min
+6/19/2023,44,3h 51min,6h 7min,5h 17min,1h 5min
+6/18/2023,41,4h 57min,8h 25min,4h 55min,1h 9min
+6/17/2023,40,2h 40min,5h 28min,1h 57min,46min
+6/16/2023,37,6h 17min,6h 14min,2h 39min,1h 13min
+6/15/2023,36,7h 36min,5h 52min,3h 54min,43min
+6/14/2023,35,6h 45min,6h 28min,2h 59min,36min
+6/13/2023,29,7h 59min,5h 50min,1h 20min,21min
+6/12/2023,34,7h 13min,5h 51min,3h 13min,18min
+6/11/2023,35,7h 13min,7h 33min,3h 18min,32min
+6/10/2023,28,6h 24min,4h 30min,52min,2min
+6/9/2023,38,6h 34min,3h 4min,2h 31min,1h 36min
+6/8/2023,39,5h 54min,6h 48min,4h 38min,37min
+6/7/2023,44,4h 37min,6h 7min,4h 56min,1h 35min
+6/6/2023,37,4h 43min,9h 20min,2h 49min,33min
+6/5/2023,34,5h 34min,6h 40min,2h 27min,12min
+6/4/2023,39,6h 23min,4h 38min,4h 34min,1h 0min
+6/3/2023,32,7h 44min,5h 57min,2h 20min,24min
+6/2/2023,36,4h 49min,9h 43min,2h 52min,10min
+6/1/2023,36,5h 28min,9h 28min,3h 10min,23min
+5/31/2023,36,5h 26min,8h 55min,2h 52min,30min
+5/30/2023,34,6h 58min,5h 35min,3h 4min,33min
+5/29/2023,39,2h 28min,11h 54min,3h 25min,17min
+5/28/2023,32,6h 47min,4h 1min,2h 23min,23min
+5/27/2023,33,6h 19min,5h 18min,2h 29min,37min
+5/26/2023,34,4h 39min,9h 55min,1h 44min,2min
+5/25/2023,36,4h 56min,9h 17min,3h 16min,19min
+5/24/2023,37,7h 25min,5h 50min,4h 11min,52min
+5/23/2023,36,8h 15min,5h 19min,3h 55min,1h 42min
+5/22/2023,29,9h 53min,6h 34min,1h 47min,4min
+5/21/2023,34,6h 18min,8h 1min,2h 41min,8min
+5/20/2023,34,7h 36min,5h 34min,3h 30min,44min
+5/19/2023,30,8h 17min,8h 14min,1h 42min,9min
+5/18/2023,32,7h 30min,5h 53min,1h 56min,27min
+5/17/2023,44,2h 11min,5h 20min,2h 48min,50min
+5/16/2023,31,6h 13min,2h 39min,1h 54min,26min
+5/15/2023,32,7h 46min,4h 7min,2h 49min,42min
+5/14/2023,41,4h 18min,6h 4min,4h 5min,1h 0min
+5/13/2023,40,2h 41min,10h 24min,3h 48min,21min
+5/12/2023,34,6h 31min,4h 58min,3h 0min,29min
+5/11/2023,36,5h 27min,4h 16min,1h 47min,50min
+5/10/2023,38,3h 43min,9h 37min,3h 7min,21min
+5/9/2023,43,7h 20min,2h 37min,5h 8min,2h 22min
+5/8/2023,41,3h 11min,9h 29min,4h 59min,25min
+5/7/2023,36,6h 20min,6h 48min,3h 18min,36min
+5/6/2023,43,4h 52min,5h 26min,4h 38min,1h 19min
+5/5/2023,33,5h 55min,7h 58min,2h 18min,36min
+5/4/2023,32,7h 34min,5h 12min,2h 30min,26min
+5/3/2023,38,5h 40min,7h 0min,3h 36min,47min
+5/2/2023,31,8h 31min,4h 49min,2h 15min,13min
+5/1/2023,29,7h 56min,6h 59min,1h 39min,7min
+4/30/2023,33,6h 34min,6h 53min,2h 37min,10min
+4/29/2023,31,7h 35min,6h 27min,2h 28min,27min
+4/28/2023,32,8h 18min,7h 50min,2h 25min,19min
+4/27/2023,42,3h 8min,6h 49min,3h 29min,1h 21min
+4/26/2023,30,9h 50min,5h 18min,2h 58min,17min
+4/25/2023,35,6h 13min,6h 55min,2h 42min,34min
+4/24/2023,33,8h 16min,5h 21min,2h 46min,43min
+4/23/2023,24,9h 27min,2h 0min,1h 9min,23min
+4/22/2023,30,9h 27min,6h 52min,2h 0min,9min
+4/21/2023,37,6h 14min,6h 38min,3h 21min,37min
+4/20/2023,43,3h 19min,7h 50min,3h 37min,1h 8min
+4/19/2023,39,5h 59min,6h 22min,4h 10min,1h 12min
+4/18/2023,34,5h 19min,7h 31min,2h 14min,30min
+4/17/2023,29,8h 16min,5h 15min,1h 41min,12min
+4/16/2023,33,7h 25min,7h 20min,2h 30min,25min
+4/15/2023,31,8h 29min,4h 44min,2h 41min,27min
+4/14/2023,27,8h 10min,4h 18min,1h 2min,14min
+4/13/2023,24,10h 57min,3h 52min,1h 30min,3min
+4/12/2023,32,9h 33min,5h 19min,3h 24min,27min
+4/11/2023,30,8h 12min,6h 27min,1h 45min,6min
+4/10/2023,42,6h 29min,2h 9min,3h 52min,2h 38min
+4/9/2023,31,7h 38min,3h 16min,1h 11min,43min
+4/8/2023,27,9h 51min,4h 27min,1h 56min,23min
+4/7/2023,21,13h 11min,3h 28min,34min,4min
+4/6/2023,32,6h 22min,5h 56min,1h 31min,33min
+4/5/2023,30,7h 27min,6h 46min,1h 27min,19min
+4/4/2023,31,7h 55min,4h 20min,2h 8min,30min
+4/3/2023,25,11h 31min,3h 19min,1h 3min,15min
+4/2/2023,24,10h 44min,4h 22min,48min,8min
+4/1/2023,32,7h 46min,4h 51min,2h 9min,42min
+3/31/2023,26,12h 2min,5h 46min,1h 30min,2min
+3/30/2023,37,8h 39min,4h 27min,3h 29min,1h 39min
+3/29/2023,27,9h 16min,5h 27min,1h 16min,3min
+3/28/2023,30,8h 1min,4h 12min,2h 10min,39min
+3/27/2023,29,8h 50min,6h 21min,1h 54min,10min
+3/26/2023,40,6h 14min,9h 46min,5h 1min,1h 18min
+3/25/2023,42,2h 47min,7h 52min,4h 7min,28min
+3/24/2023,39,4h 2min,8h 39min,4h 0min,35min
+3/23/2023,49,24min,3h 26min,2h 21min,30min
+3/22/2023,30,3h 46min,4h 25min,34min,--
+3/21/2023,37,3h 43min,6h 33min,2h 33min,13min
+3/20/2023,36,2h 18min,11h 6min,1h 27min,6min
+3/19/2023,43,1h 37min,13h 39min,4h 38min,29min
+3/18/2023,46,3h 52min,6h 23min,3h 32min,2h 44min
+3/17/2023,32,8h 55min,5h 0min,2h 53min,53min
+3/16/2023,33,5h 45min,8h 20min,1h 46min,13min
+3/15/2023,31,7h 59min,5h 26min,1h 48min,25min
+3/14/2023,37,5h 51min,6h 22min,2h 49min,1h 0min
+3/13/2023,31,6h 33min,3h 58min,1h 6min,28min
+3/12/2023,31,10h 5min,3h 53min,2h 38min,31min
+3/11/2023,33,6h 43min,7h 27min,2h 40min,13min
+3/10/2023,30,8h 59min,4h 39min,1h 57min,28min
+3/9/2023,26,10h 16min,4h 21min,1h 18min,11min
+3/8/2023,27,10h 41min,5h 48min,1h 18min,7min
+3/7/2023,29,8h 48min,6h 8min,1h 22min,16min
+3/6/2023,37,6h 34min,4h 45min,3h 12min,1h 11min
+3/5/2023,32,9h 14min,4h 43min,2h 5min,56min
+3/4/2023,31,6h 43min,7h 39min,2h 23min,9min
+3/3/2023,29,9h 17min,4h 56min,2h 4min,27min
+3/2/2023,29,8h 44min,6h 16min,1h 58min,22min
+3/1/2023,28,9h 32min,4h 36min,1h 47min,14min
+2/28/2023,30,11h 22min,4h 12min,2h 38min,36min
+2/27/2023,30,8h 50min,5h 2min,1h 37min,25min
+2/26/2023,33,7h 45min,6h 31min,3h 7min,20min
+2/25/2023,37,6h 49min,6h 43min,3h 16min,1h 6min
+2/24/2023,34,6h 55min,8h 14min,3h 13min,19min
+2/23/2023,31,8h 50min,7h 33min,2h 7min,12min
+2/22/2023,31,6h 35min,7h 54min,1h 23min,28min
+2/21/2023,30,8h 47min,5h 8min,2h 20min,30min
+2/20/2023,28,8h 41min,8h 23min,1h 28min,4min
+2/19/2023,30,10h 33min,5h 41min,2h 38min,26min
+2/18/2023,25,11h 58min,5h 53min,51min,2min
+2/17/2023,33,9h 11min,7h 3min,1h 51min,1h 26min
+2/16/2023,43,3h 28min,7h 29min,3h 27min,1h 29min
+2/15/2023,33,4h 19min,6h 12min,1h 26min,4min
+2/14/2023,31,3h 41min,3h 12min,1h 11min,11min
+2/13/2023,44,1h 42min,7h 47min,4h 9min,23min
+2/12/2023,34,7h 29min,5h 18min,2h 22min,43min
+2/11/2023,30,9h 20min,7h 39min,1h 58min,9min
+2/10/2023,44,5h 22min,7h 41min,3h 14min,3h 8min
+2/9/2023,29,8h 8min,4h 59min,1h 13min,25min
+2/8/2023,29,10h 7min,5h 22min,1h 39min,30min
+2/7/2023,29,9h 32min,6h 6min,1h 46min,10min
+2/6/2023,33,9h 0min,3h 50min,3h 6min,1h 7min
+2/5/2023,28,10h 47min,7h 22min,1h 14min,8min
+2/4/2023,21,14h 7min,4h 17min,24min,1min
+2/3/2023,39,4h 30min,8h 38min,2h 32min,1h 5min
+2/2/2023,32,9h 32min,3h 47min,2h 3min,57min
+2/1/2023,26,11h 40min,4h 51min,1h 28min,2min
+1/31/2023,34,7h 25min,5h 40min,1h 55min,51min
+1/30/2023,35,7h 54min,6h 0min,2h 36min,50min
+1/29/2023,36,7h 52min,5h 51min,2h 47min,1h 11min
+1/28/2023,26,11h 4min,6h 1min,1h 6min,3min
+1/27/2023,26,10h 56min,5h 45min,1h 9min,13min
+1/26/2023,29,8h 24min,5h 54min,1h 32min,8min
+1/25/2023,32,6h 32min,8h 24min,1h 49min,3min
+1/24/2023,29,10h 1min,4h 56min,1h 38min,38min
+1/23/2023,29,7h 9min,9h 41min,45min,2min
+1/22/2023,35,6h 30min,7h 47min,2h 13min,1h 12min
+1/21/2023,28,10h 48min,6h 24min,1h 49min,35min
+1/20/2023,24,13h 54min,4h 0min,1h 52min,6min
+1/19/2023,33,8h 21min,7h 44min,1h 50min,53min
+1/18/2023,28,8h 46min,6h 59min,1h 4min,7min
+1/17/2023,34,5h 3min,10h 26min,1h 59min,11min
+1/16/2023,38,4h 43min,8h 56min,3h 38min,29min
+1/15/2023,32,5h 14min,6h 28min,1h 22min,22min
+1/14/2023,32,6h 24min,5h 59min,1h 16min,45min
+1/13/2023,25,9h 57min,5h 23min,48min,4min
+1/12/2023,28,9h 16min,5h 59min,1h 18min,13min
+1/11/2023,30,10h 7min,6h 16min,2h 2min,28min
+1/10/2023,28,10h 50min,4h 27min,1h 24min,41min
+1/9/2023,30,10h 40min,5h 29min,2h 10min,29min
+1/8/2023,30,9h 8min,4h 20min,2h 1min,24min
+1/7/2023,32,9h 38min,4h 39min,2h 5min,1h 17min
+1/6/2023,23,12h 30min,5h 27min,47min,--
+1/5/2023,31,9h 18min,6h 50min,1h 48min,31min
+1/4/2023,30,10h 5min,6h 10min,1h 8min,1h 7min
+1/3/2023,29,9h 51min,4h 46min,2h 18min,17min
+1/2/2023,37,6h 51min,9h 50min,3h 18min,1h 1min
+1/1/2023,24,14h 30min,4h 22min,59min,5min
+12/31/2022,31,8h 6min,7h 58min,1h 29min,50min
+12/30/2022,28,10h 44min,7h 35min,1h 46min,5min
+12/29/2022,29,8h 25min,7h 39min,1h 26min,5min
+12/28/2022,30,8h 26min,5h 20min,1h 52min,51min
+12/27/2022,31,7h 52min,11h 58min,1h 25min,8min
+12/26/2022,30,9h 13min,6h 6min,1h 45min,28min
+12/25/2022,27,5h 56min,3h 24min,50min,2min
+12/24/2022,34,7h 23min,5h 55min,2h 46min,54min
+12/23/2022,29,9h 50min,6h 19min,1h 53min,14min
+12/22/2022,23,12h 22min,4h 22min,52min,7min
+12/21/2022,27,11h 24min,5h 18min,1h 25min,18min
+12/20/2022,29,9h 8min,6h 16min,1h 18min,11min
+12/19/2022,35,6h 5min,8h 43min,3h 7min,21min
+12/18/2022,29,10h 53min,7h 15min,2h 0min,21min
+12/17/2022,36,6h 45min,6h 40min,3h 10min,22min
+12/16/2022,31,8h 2min,8h 16min,2h 15min,25min
+12/15/2022,24,10h 58min,5h 12min,1h 5min,6min
+12/14/2022,28,11h 15min,4h 59min,1h 33min,21min
+12/13/2022,33,7h 18min,9h 2min,1h 57min,43min
+12/12/2022,34,5h 27min,6h 36min,1h 42min,30min
+12/11/2022,30,9h 48min,5h 51min,1h 56min,30min
+12/10/2022,26,11h 7min,4h 8min,1h 48min,21min
+12/9/2022,27,10h 10min,8h 24min,45min,4min
+12/8/2022,29,9h 10min,5h 5min,1h 26min,38min
+12/7/2022,29,9h 51min,7h 7min,1h 19min,12min
+12/6/2022,30,8h 51min,2h 29min,1h 56min,51min
+12/5/2022,26,13h 1min,3h 3min,1h 21min,48min
+12/4/2022,21,13h 25min,2h 32min,22min,8min
+12/3/2022,24,12h 13min,5h 9min,30min,6min
+12/2/2022,29,9h 21min,5h 44min,1h 59min,17min
+12/1/2022,31,7h 49min,8h 37min,1h 42min,14min
+11/30/2022,32,7h 34min,3h 28min,2h 58min,26min
+11/29/2022,27,11h 40min,5h 17min,1h 10min,28min
+11/28/2022,31,9h 16min,5h 27min,2h 18min,37min
+11/27/2022,32,9h 11min,5h 49min,2h 45min,38min
+11/26/2022,28,11h 39min,5h 22min,1h 52min,37min
